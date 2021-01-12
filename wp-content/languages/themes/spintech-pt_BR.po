@@ -1,0 +1,438 @@
+# Translation of Themes - Spintech in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Spintech package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-16 21:00:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Spintech\n"
+
+#. Description of the theme
+msgid "Spintech WordPress theme is specially designed for an IT & Software Company. Theme is perfectly for Startup, IT Solutions, Agencies, Marketing, Consulting, and Services Company related to any business websites. It has a modern & elegant look. 25+ prebuilt templates are ready in Pro version. Some awesome features are very useful for IT & Software company's websites, Such as Service, Portfolio, Team, Timeline, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon Page and many more. Build your website in your native language with WPML & Polylang plugin. Checkout Pro Version https://burgerthemes.com/demo/pro/spintech/"
+msgstr "O tema Spintech WordPress é projetado especialmente para TI e Empresa de Software. O tema é perfeito para Startup, Soluções de TI, Agências, Marketing, Consultoria e Empresa de Serviços relacionados a qualquer site de negócios. Tem uma aparência moderna e elegante. Mais de 25 modelos pré-construídos prontos na versão Pro. Alguns recursos incríveis são muito úteis para sites de empresas de TI e Software, como serviço, portfólio, equipe, linha do tempo, galeria, páginas de blog, páginas de loja, páginas de preços, página de contato, página em breve e muito mais. Construa seu site em seu idioma nativo com o plugin WPML e Polylang. Versão Pro do Checkout https://burgerthemes.com/demo/pro/spintech/"
+
+#. Theme Name of the theme
+msgid "Spintech"
+msgstr "Spintech"
+
+#: inc/extras.php:295
+msgid "Get started with Spintech"
+msgstr "Comece com Spintech"
+
+#: inc/extras.php:293
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instale e ative o plugin <strong>Burger Companion</strong> para aproveitar ao máximo todos os recursos que este tema tem a oferecer."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:289
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Bem-vinda! Obrigado por escolher %1$s!"
+
+#: inc/extras.php:282
+msgid "Theme Screenshot"
+msgstr "Tela do tema"
+
+#: inc/customizer/customizer-notify/spintech-notify.php:111
+msgid "Activating"
+msgstr "Ativar"
+
+#: inc/customizer/customizer-pro/class-customize.php:77
+msgid "Get More Features in Spintech Pro"
+msgstr "Obtenha mais recursos no Spintech Pro"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: inc/customizer/customizer-options/spintech_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer Spintech."
+msgstr "Instale e ative o plugin <strong>Burger Companion</strong> para tirar o máximo proveito de todos os recursos que este tema tem a oferecer Spintech."
+
+#: footer.php:38
+msgid "<a href=\"https://burgerthemes.com/spintech-free/\" target=\"_blank\">Spintech WordPress Theme</a>"
+msgstr "<a href=\"https://burgerthemes.com/spintech-free/\" target=\"_blank\">Tema Spintech WordPress</a>"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: template-parts/sections/section-navigation.php:179
+msgid "Search Popup Close"
+msgstr "Fechar popup pesquisar"
+
+#: template-parts/sections/section-navigation.php:176
+msgid "Type To Search"
+msgstr "Digite para pesquisa"
+
+#: template-parts/sections/section-navigation.php:175
+msgid "Site Search"
+msgstr "Pesquisa de sites"
+
+#: template-parts/sections/section-navigation.php:155
+msgid "Header Above Collapse"
+msgstr "Retrair cabeçalho de cima"
+
+#: template-parts/sections/section-navigation.php:149
+msgid "Header Close Menu"
+msgstr "Cabeçalho Fechar Menu"
+
+#: template-parts/sections/section-navigation.php:140
+msgid "Menu Collaped"
+msgstr "Recolher Menu"
+
+#: template-parts/sections/section-navigation.php:65
+msgid "Search Popup"
+msgstr "Pesquisa Popup"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não conseguimos encontrar o que você está procurando. Talvez pesquisar ajude."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Não foi encontrado nenhum resultado correspondente ao seu critério de pesquisa. Por favor tente com outras palavras-chave."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content/content-page.php:72
+#: template-parts/content/content-search.php:71
+msgid "Read More"
+msgstr "Consulte mais informação"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "Páginas"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/customizer/customizer-options/spintech-blog.php:139
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customizer/customizer-options/spintech-blog.php:119
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/customizer/customizer-options/spintech-blog.php:20
+msgid "Blog Section"
+msgstr "Seção Blog"
+
+#: inc/customizer/customizer-options/spintech-blog.php:11
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: inc/customizer/customizer-options/spintech-footer.php:117
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/customizer-options/spintech-footer.php:82
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Distribuído por [theme_author]"
+
+#: inc/customizer/customizer-options/spintech-footer.php:76
+#: inc/customizer/customizer-options/spintech-footer.php:96
+msgid "Copyright"
+msgstr "Créditos"
+
+#: inc/customizer/customizer-options/spintech-footer.php:55
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer/customizer-options/spintech-footer.php:38
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/customizer-options/spintech-footer.php:18
+msgid "Footer Bottom"
+msgstr "Rodapé inferior"
+
+#: inc/customizer/customizer-options/spintech-footer.php:10
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/customizer-options/spintech-general.php:120
+msgid "Fixed"
+msgstr "Fixo"
+
+#: inc/customizer/customizer-options/spintech-general.php:119
+msgid "Scroll"
+msgstr "Rolar"
+
+#: inc/customizer/customizer-options/spintech-general.php:118
+msgid "Inherit"
+msgstr "Herdar"
+
+#: inc/customizer/customizer-options/spintech-general.php:113
+msgid "Background Attachment"
+msgstr "Anexo de Fundo"
+
+#: inc/customizer/customizer-options/spintech-general.php:94
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer/customizer-options/spintech-general.php:76
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customizer/customizer-options/spintech-general.php:56
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar seção"
+
+#: inc/customizer/customizer-options/spintech-general.php:36
+#: inc/customizer/customizer-options/spintech-blog.php:41
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/customizer/customizer-options/spintech-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Seção Breadcrumb"
+
+#: inc/customizer/customizer-options/spintech-general.php:7
+msgid "General"
+msgstr "Geral"
+
+#: inc/customizer/customizer-options/spintech-header.php:188
+#: inc/customizer/customizer-options/spintech-header.php:207
+msgid "Sticky Header"
+msgstr "Cabeçalho fixo"
+
+#: inc/customizer/customizer-options/spintech-header.php:173
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/customizer-options/spintech-blog.php:99
+#: inc/customizer/customizer-options/spintech-header.php:153
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer-options/spintech-header.php:133
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/customizer-options/spintech-header.php:94
+msgid "Contact"
+msgstr "Contato"
+
+#: inc/customizer/customizer-options/spintech-footer.php:137
+#: inc/customizer/customizer-options/spintech-blog.php:60
+#: inc/customizer/customizer-options/spintech-header.php:73
+#: inc/customizer/customizer-options/spintech-header.php:113
+#: inc/customizer/customizer-options/spintech-header.php:224
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-options/spintech-header.php:53
+msgid "Search"
+msgstr "Busca"
+
+#: inc/customizer/customizer-options/spintech-header.php:35
+msgid "Header Navigation"
+msgstr "Navegação de cabeçalho"
+
+#: inc/customizer/customizer-options/spintech-header.php:23
+msgid "Site Identity"
+msgstr "Identidade do site"
+
+#: inc/customizer/customizer-options/spintech-blog.php:80
+#: inc/customizer/customizer-options/spintech-header.php:12
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/extras.php:244
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:239
+msgid "Error 404 "
+msgstr "Erro 404"
+
+#: inc/extras.php:235
+msgid "Articles posted by "
+msgstr "Artigos publicados por"
+
+#: inc/extras.php:229
+msgid "Posts tagged "
+msgstr "Posts marcados"
+
+#: inc/extras.php:130
+msgid "Search results for "
+msgstr "Pesquisar por"
+
+#: inc/extras.php:124
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: inc/extras.php:104
+msgid "Home"
+msgstr "Página inicial"
+
+#: inc/extras.php:102 inc/extras.php:105
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:86
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/extras.php:82
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/extras.php:78
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: inc/extras.php:74
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: inc/extras.php:70
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: inc/extras.php:66
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: inc/extras.php:62
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Adicionar ao menu"
+
+#: 404.php:21
+msgid "Go to Home"
+msgstr "Ir para casa"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found."
+msgstr "A página que você está procurando não pode ser encontrada"
+
+#: 404.php:18
+msgid "Oops! Page Not Found"
+msgstr "Opa! Página não encontrada"
+
+#: 404.php:17
+msgid "4"
+msgstr "4"
+
+#: functions.php:112
+msgid "The Footer Widget Area"
+msgstr "Área de Widgets do rodapé"
+
+#: functions.php:110
+msgid "Footer Widget Area"
+msgstr "Área de Widgets do rodapé"
+
+#: functions.php:102
+msgid "The Primary Widget Area"
+msgstr "Área de widgets primária"
+
+#: functions.php:100
+msgid "Sidebar Widget Area"
+msgstr "Área do Widget da Barra Lateral"
+
+#: functions.php:42
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Página em largura total"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Página inicial"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Author URI of the theme
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://burgerthemes.com/spintech-free/"
+msgstr "https://burgerthemes.com/spintech-free/"
+
+#. Author of the theme
+msgid "burgersoftware"
+msgstr "burgersoftware"
